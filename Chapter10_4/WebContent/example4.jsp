@@ -11,7 +11,7 @@
 	<h1>Classic Tag Handler example with body iteration execution</h1><br>
 	Classic Tag Four:<br>
  	<mine:classicFour count="1">
- 		This is the body!! and this is FUN!
+ 		This is the body!! and this is FUN!<br>
  	</mine:classicFour>
 </body>
 </html>
