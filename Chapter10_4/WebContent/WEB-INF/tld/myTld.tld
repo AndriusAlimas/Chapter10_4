@@ -10,12 +10,22 @@
 		<tag-class>com.example.tag.Classic1</tag-class>
 		<body-content>empty</body-content>
 	</tag>
+	
 	<!-- Another tag will be with two methods example -->
 	<tag>
 		<description>use of Classic tag with two methods </description>
 		<name>classicTwo</name>
 		<tag-class>com.example.tag.Classic2</tag-class>
 		<body-content>empty</body-content>
+	</tag>
+	
+	<!-- Another tag example will be with two methods and body execution -->
+	<tag>
+		<description>use of Classic tag with two methods and body </description>
+		<name>classicThree</name>
+		<tag-class>com.example.tag.Classic3</tag-class>
+		<!--  this tag will have body  -->
+		<body-content>scriptless</body-content>
 	</tag>
 	
 </taglib>
