@@ -28,4 +28,18 @@
 		<body-content>scriptless</body-content>
 	</tag>
 	
+	<!-- Tag example with continues iteration to body execution -->
+	<tag>
+		<description>use of Classic tag body iteration </description>
+		<name>classicFour</name>
+		<tag-class>com.example.tag.Classic4</tag-class>
+		<!--  this tag will have body  -->
+		<body-content>scriptless</body-content>
+	<!--  this tag has required attribute -->	
+		<attribute>
+			<name>count</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+	</tag>
 </taglib>
