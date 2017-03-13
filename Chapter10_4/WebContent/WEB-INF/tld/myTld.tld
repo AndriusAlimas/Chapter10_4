@@ -1,0 +1,10 @@
+<taglib>
+	<tlib-version>1.2</tlib-version>
+	<jsp-version>2.0</jsp-version>
+	<uri>KathyClassicTags</uri>
+	
+	<tag>
+		<description>use of Classic tag</description>
+		<name>classicOne</name>
+	</tag>
+</taglib>
