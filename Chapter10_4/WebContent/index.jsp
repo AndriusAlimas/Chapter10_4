@@ -8,7 +8,8 @@
 <title>Welcome page</title>
 </head>
 <body>
- 	
- 	
+ 	<h1>Classic Tag Handler examples:</h1><br>
+ 	<a href="example1.jsp">Classic Tag Handler example with one method</a><br><br>
+ 	<a href="example2.jsp">Classic Tag Handler example with two method</a>
 </body>
 </html>
