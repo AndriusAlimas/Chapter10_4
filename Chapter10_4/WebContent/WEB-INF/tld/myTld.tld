@@ -6,5 +6,8 @@
 	<tag>
 		<description>use of Classic tag</description>
 		<name>classicOne</name>
+		<!-- There's no way to know for certain that this <tag> is handled by a Classic tag handler -->
+		<tag-class>com.example.tag.Classic1</tag-class>
+		<body-content>empty</body-content>
 	</tag>
 </taglib>

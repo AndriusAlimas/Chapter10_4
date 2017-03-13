@@ -11,6 +11,7 @@
  	<h1>Classic Tag Handler</h1>
  	<br>
  	Classic Tag One:<br>
+ 	<%-- this tag uses a Classic tag handler. But to the JSP, it looks just like any other tag invocation --%>
  	<mine:classicOne/>
 </body>
 </html>
